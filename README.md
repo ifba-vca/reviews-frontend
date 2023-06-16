@@ -1,4 +1,5 @@
-
+## Sistema de avaliação do IFBA - Frontend
+> Projeto utilizado como avalição da disciplina optativa de Frameworks de Desenvolvimento 
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
